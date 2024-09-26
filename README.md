@@ -1,3 +1,2 @@
 # backend_snet
-Backend Proyecto Final del Bootcamp DWFSV3-179 - API Rest - Red Social (stack MERN)
-Backend Proyecto Final del Bootcamp DWFSV3-179 - API Rest - Red Social (stack MERN)
+Backend Proyecto Virus-Analizator utilizando el MVC ( modelo vista controlador) junto con la funcionalidad del analisis en busca de vulnerabilidades
